@@ -17,5 +17,5 @@ bootstrap/cache/
 *.lock
 /.idea
 /vendor
-.idea/blade.xml
-.idea/vcs.xml
+.DS_Store
+*~
