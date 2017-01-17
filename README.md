@@ -13,18 +13,21 @@ Responsive UI, thanks to Bootstrap
 
 ## Install Instructions
 
-To install Scrumwala you can clone the repository:
+To install Open Scrum you can clone the repository:
 
-$ git clone https://github.com/modestkdr/scrumwala.git.
+`git clone https://github.com/openscrum/openscrum.git`
+
 Next, enter the project's root directory and install the project dependencies:
 
-$ composer install
-Next, configure your .env file (root directory) and database (config/database.php). Subsequently, create the database and then run the migrations:
+`composer install`
 
-$ php artisan migrate
-License
+Next, configure your .env file (root directory) and database (`config/database.php`). Subsequently, create the database and then run the migrations:
 
-Scrumwala is licensed under the MIT license. If you find something wrong with the code or think it could be improved, I welcome you to create an issue or submit a pull request!
+`php artisan migrate`
+
+### License
+
+Open Scrum is licensed under the MIT license. If you find something wrong with the code or think it could be improved, I welcome you to create an issue or submit a pull request!
 
 ## Contributing
 
@@ -32,7 +35,7 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at yoosuf@finetick.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please send an e-mail to Yoosuf Muhammad at yoosuf@finetick.com. All security vulnerabilities will be promptly addressed.
 
 ## License
 
