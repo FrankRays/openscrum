@@ -1,4 +1,4 @@
-vendor/
+svendor/
 node_modules/
 
 # Laravel 4 specific
@@ -15,3 +15,7 @@ bootstrap/cache/
 .rocketeer/
 
 *.lock
+/.idea
+/vendor
+.idea/blade.xml
+.idea/vcs.xml
